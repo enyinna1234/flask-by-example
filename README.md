@@ -1,2 +1,2 @@
 # flask-by-example
-Following along the Flask the 
+Following along with the Flask by example tutorial
